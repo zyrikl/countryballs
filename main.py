@@ -1,5 +1,6 @@
 # Countryballs battle simulator
 # Created by Charles Wang
+# Copyright (c) 2024 Charles Wang. This may not be removed without permission.
 
 import random, time
 
